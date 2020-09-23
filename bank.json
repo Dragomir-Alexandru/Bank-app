@@ -1,0 +1,56 @@
+{
+    "1": {
+        "name": "Alex Dragomir",
+        "telephone": "07474048204",
+        "city": "Timisoara",
+        "balance": 400
+    },
+    "2": {
+        "name": "Alexdra Ureche",
+        "telephone": "0756445566",
+        "city": "Timisoara",
+        "balance": 9000
+    },
+    "3": {
+        "name": "Dragomir Daniela",
+        "telephone": "0740965402",
+        "city": "Timisoara",
+        "balance": 0
+    },
+    "4": {
+        "name": "Sergiu Bic",
+        "telephone": "0745234567",
+        "city": "Petrosani",
+        "balance": -200
+    },
+    "5": {
+        "name": "Madalina Bic",
+        "telephone": "0765123456",
+        "city": "Petrosani",
+        "balance": 1200
+    },
+    "6": {
+        "name": "Dan Sebesan",
+        "telephone": "0747048204",
+        "city": "Timisoara",
+        "balance": 566
+    },
+    "7": {
+        "name": "Nitu Mariea",
+        "telephone": "07568909",
+        "city": "Pitesti",
+        "balance": 0
+    },
+    "8": {
+        "name": "Timea",
+        "telephone": "099898-8",
+        "city": "sadasdas",
+        "balance": 0
+    },
+    "9": {
+        "name": "Alex ",
+        "telephone": "423423423",
+        "city": "dasdasdas",
+        "balance": 0
+    }
+}
